@@ -1,0 +1,3 @@
+A file which is my first object.
+I have a class called "File" and I want to create an instance of this class with the name of the file as a parameter, so        
+I have a function that takes this file as an argument and returns the content of it. I want to make sure that if someone tries to access  I am trying to create a new instance of  I am trying to create a second object,           
